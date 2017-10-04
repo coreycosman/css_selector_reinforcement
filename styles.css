@@ -1,0 +1,22 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+.textbox {
+  color: green;
+}
+
+
+#hover:hover {
+  color: orange;
+
+}
+
+h1 {
+  text-size-adjust: 80%;
+}
+
+.image {
+  display: inline-block;
+}
